@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+imblearn
+flask
+numpy
+notebook
+
